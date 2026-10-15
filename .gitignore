@@ -1,0 +1,20 @@
+# Secret API keys (NEVER push to GitHub!)
+.env
+backend/.env
+frontend/.env
+
+# Node / React dependencies
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python virtual environment & cache
+__pycache__/
+backend/__pycache__/
+venv/
+.venv/
+*.pyc
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
