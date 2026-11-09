@@ -1,6 +1,5 @@
 
-# 🌿 Mindora — AI Mental Wellness Companion
-
+# 🌿 [Mindora — AI Mental Wellness Companion](https://mindora-health.vercel.app/)
 > **A comforting, voice-first AI reflection space powered by Google Gemma (via Ollama) and ElevenLabs.**
 
 ![React](https://img.shields.io/badge/Frontend-React_18_%2B_Vite-61DAFB?style=flat-square&logo=react)
